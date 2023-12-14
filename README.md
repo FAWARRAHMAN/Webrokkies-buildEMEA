@@ -12,11 +12,11 @@
 
 
 ## Team Members
-1. Fawar Rahman [https://github.com/FAWARRAHMAN]
-2.Fabin [https://github.com/Abufabin]
-3.Musfira.ch[https://github.com/musfirra]
-4.Muhammed Salman[https://github.com/Sa-lm-an]
-5.Naja minha[https://github.com/Najaminha]
+1. Fawar Rahman  [profile](https://github.com/FAWARRAHMAN)
+2.Fabin  [profile](https://github.com/Abufabin)
+3.Musfira.ch  [profile](https://github.com/musfirra)
+4.Muhammed Salman [profile](https://github.com/Sa-lm-an)
+5.Naja minha [profile](https://github.com/Najaminha)
 
 ## Link to Product Walkthrough
 [Link to video]
