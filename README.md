@@ -2,14 +2,14 @@
 
 <!-- ![Banner](./assets/banner.gif)  -->
 # Venue Booking
-Selected project
+
 
 **Venue Booking**: A website where users can check and book a slot for venues
 
-Short description about the project
+
 
 ## Webrokkies
-Team name here
+
 
 ## Team Members
 1. Fawar Rahman [https://github.com/FAWARRAHMAN]
