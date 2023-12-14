@@ -1,19 +1,22 @@
 <img src="./assets/Banner.jpg" alt="Banner" style="width: 100%;" />
 
 <!-- ![Banner](./assets/banner.gif)  -->
-# Project Name
-Selected project 
+# Venue Booking
+Selected project
 
-**Description**:
+**Venue Booking**: A website where users can check and book a slot for venues
 
 Short description about the project
 
-## Team Name
+## Webrokkies
 Team name here
 
 ## Team Members
-1. Name [Embed personal GitHub URL]
-2. Name [Embed personal GitHub URL]
+1. Fawar Rahman [https://github.com/FAWARRAHMAN]
+2.Fabin [https://github.com/Abufabin]
+3.Musfira.ch[https://github.com/musfirra]
+4.Muhammed Salman[https://github.com/Sa-lm-an]
+5.Naja minha[https://github.com/Najaminha]
 
 ## Link to Product Walkthrough
 [Link to video]
